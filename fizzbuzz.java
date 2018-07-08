@@ -1,5 +1,8 @@
 /*
-  From 1 to 100, print "Fizz" when the number is divisible by 3, print "Buzz" when the number is divisible by 5, print "FizzBuzz" when the number is divisible by 3 and 5
+  From 1 to 100, print "Fizz" when the number is
+  divisible by 3, print "Buzz" when the number is
+  divisible by 5, print "FizzBuzz" when the
+  number is divisible by 3 and 5
 */
 
 public Class FizzBuzz{
